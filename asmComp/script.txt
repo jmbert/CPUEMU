@@ -1,5 +1,0 @@
-org 0x200
-mov 0x50, %ax
-mov 0x10, %cx
-sub %ax, %cx
-end
