@@ -2,7 +2,7 @@
 
 #define byte unsigned char
 
-#define RAMSIZE 0x1000
+#define RAMSIZE 0x10000
 #define DISKSIZE 0x100
 
 byte readByte(unsigned short addr, FILE *block);
